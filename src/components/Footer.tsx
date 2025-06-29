@@ -36,7 +36,7 @@ const Footer = () => {
                 <Instagram className="h-5 w-5" />
               </a>
               <a
-                href="https://wa.me/1234567890"
+                href="https://wa.me/8668281565"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="bg-gradient-to-r from-green-500 to-emerald-500 hover:from-green-600 hover:to-emerald-600 p-4 rounded-2xl transition-all duration-300 hover:scale-110 shadow-lg hover:shadow-green-500/25"
@@ -44,7 +44,7 @@ const Footer = () => {
                 <MessageCircle className="h-5 w-5" />
               </a>
               <a
-                href="mailto:hello@alkascakewalk.com"
+                href="mailto:alkascakewalk@gmail.com"
                 className="bg-gradient-to-r from-blue-500 to-cyan-500 hover:from-blue-600 hover:to-cyan-600 p-4 rounded-2xl transition-all duration-300 hover:scale-110 shadow-lg hover:shadow-blue-500/25"
               >
                 <Mail className="h-5 w-5" />
