@@ -19,7 +19,7 @@ const Footer = () => {
               </div>
               <div>
                 <h3 className="text-2xl font-bold">Alka's CakeWalk</h3>
-                <p className="text-purple-200 text-sm font-medium">Joy Freshly Baked</p>
+                <p className="text-purple-200 text-sm font-medium">Joy Baked Fresh</p>
               </div>
             </div>
             <p className="text-gray-300 mb-8 max-w-md leading-relaxed">
