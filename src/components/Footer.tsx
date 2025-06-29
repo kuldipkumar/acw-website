@@ -19,7 +19,7 @@ const Footer = () => {
               </div>
               <div>
                 <h3 className="text-2xl font-bold">Alka's CakeWalk</h3>
-                <p className="text-purple-200 text-sm font-medium">Sweet Dreams Come True</p>
+                <p className="text-purple-200 text-sm font-medium">Joy Freshly Baked</p>
               </div>
             </div>
             <p className="text-gray-300 mb-8 max-w-md leading-relaxed">
@@ -81,23 +81,22 @@ const Footer = () => {
               <div className="flex items-start space-x-3">
                 <MapPin className="h-5 w-5 text-purple-300 mt-1" />
                 <div>
-                  <p className="text-gray-300">123 Baker Street</p>
-                  <p className="text-gray-300">Sweet City, SC 12345</p>
+                  <p className="text-gray-300">Malpani Greens Society</p>
+                  <p className="text-gray-300">Kaspate Wasti, Wakad, Pune</p>
                 </div>
               </div>
               <div className="flex items-center space-x-3">
                 <MessageCircle className="h-5 w-5 text-purple-300" />
-                <p className="text-gray-300">+1 (234) 567-8900</p>
+                <p className="text-gray-300">8668281565</p>
               </div>
               <div className="flex items-center space-x-3">
                 <Mail className="h-5 w-5 text-purple-300" />
-                <p className="text-gray-300">hello@alkascakewalk.com</p>
+                <p className="text-gray-300">alkascakewalk@gmail.com</p>
               </div>
               <div className="flex items-start space-x-3">
                 <Clock className="h-5 w-5 text-purple-300 mt-1" />
                 <div>
-                  <p className="text-gray-300">Mon-Sat: 9AM-7PM</p>
-                  <p className="text-gray-300">Sunday: 10AM-5PM</p>
+                  <p className="text-gray-300">Mon-Sun: 9AM-9PM</p>
                 </div>
               </div>
             </div>
