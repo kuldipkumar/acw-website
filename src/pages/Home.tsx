@@ -37,7 +37,7 @@ const Home = () => {
   const stats = [
     { icon: Heart, number: '500+', label: 'Happy Customers' },
     { icon: Award, number: '1000+', label: 'Cakes Created' },
-    { icon: Star, number: '4.9', label: 'Average Rating' },
+    { icon: Star, number: '5', label: 'Average Rating' },
     { icon: Users, number: '50+', label: 'Events Catered' }
   ];
 
